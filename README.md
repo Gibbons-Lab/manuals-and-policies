@@ -8,7 +8,7 @@ last updated: July 24, 2019
 
 It is my responsibility to provide you with the resources and support you need to carry out and publish high-quality research and assist you in achieving your career goals. **I am here to serve you**.
 
-It is your responsibility to be passionate about your work and advance your career by doing the highest, most reproducible science possible.
+It is your responsibility to be passionate about your work and advance your career by doing the best, most reproducible science possible.
 
 Every person and every project has different needs that change over time. Please keep me updated on your scientific and personal aspirations. If you need anything (a piece of equipment, more time with me, collaborators, etc.), ask and I’ll do my best to provide. 
 
