@@ -83,4 +83,4 @@ I encourage people to write blog posts and popular science articles to highlight
 If you embark on a project of your own design when in the lab and want to extend in this direction for your own academic career, please bring this up with me in the early stages so that we can plan accordingly. I will be as flexible as possible to ensure your onging success.
 ___
 
-_Special thanks to Tami Lieberman for providing me with her lab orientation document, which I have used as inspiration. This is a living document that is subject to change_
+_Special thanks to Tami Lieberman for providing me with her lab orientation document, which I have used as inspiration. This is a living document that is subject to change._
