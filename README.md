@@ -1,6 +1,7 @@
 # Trainee Orientation Document
 
 author: Sean Gibbons
+
 last updated: July 24, 2019
 
 ### Overview
@@ -75,7 +76,7 @@ Writing code that is useable by others is hard, but I hope we can work together 
 
 ### Communicating your science to the public
 
-I encourage people to write blog posts and popular science articles to highlight your work to a broader audience. I would prefer that you share these summaries with myself and other lab members for feedback and edits prior to publication (always best to have another pair of eyes take a look). Blog posts can be published on our lab website, and we can also look for opportunities to publish posts on other platforms. You should feel free to talk with journalists about your work, but try to let me know beforehand. Always be mindful that you are representing the lab. Be engaging, but try not to over-hype your results.
+I encourage people to write blog posts and popular science articles to highlight your work to a broader audience. I would prefer that you share these summaries with myself and other lab members for feedback and edits prior to publication (always best to have another pair of eyes take a look). Blog posts can be published on our [lab website](https://gibbons.systemsbiology.org/), and we can also look for opportunities to publish posts on other platforms. You should feel free to talk with journalists about your work, but try to let me know beforehand. Always be mindful that you are representing the lab. Be engaging, but try not to over-hype your results.
 
 ### Project ownership when leaving lab
 
