@@ -22,5 +22,5 @@ _**UPDATE:** I suggest you follow Trevor Bedford (from Fred Hutch) on Twitter fo
 
 11. If you do isolate yourself, whether because of illness or concern, make sure to maintain frequent social contact with your family, friends, and the lab via phone, email, Slack, or whatever works best for you. Don’t let physical isolation and loneliness make you feel miserable. We are all stronger together, even if we might have to be physically apart.
 
-**this document was adapted from the Lenski Lab's health plan (https://telliamedrevisited.wordpress.com/2020/02/29/the-lenski-lab-health-plan-for-the-new-coronavirus-outbreak/)
+**this document was adapted from the [Lenski Lab's health plan](https://telliamedrevisited.wordpress.com/2020/02/29/the-lenski-lab-health-plan-for-the-new-coronavirus-outbreak/)
 
