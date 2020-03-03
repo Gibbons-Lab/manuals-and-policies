@@ -1,8 +1,10 @@
-# COV19 Lab Health Plan -- last updated 02/29/20
+# COVID-19 Lab Health Plan -- last updated 03/03/20
 
 #### What can we do, as individuals and a lab group, to protect ourselves, our families, each other, our communities, and our research?  Here are my current thoughts, with an emphasis on activities related to our laboratory and our academic setting.
 
-_**UPDATE:** I suggest you follow Trevor Bedford (from Fred Hutch) on Twitter for the latest news on COVID19 in Washington. Bedford has [recently shown](https://twitter.com/trvrb/status/1233970271318503426) strong evidence that COVID19 has been circulating in our region since January 19th, with likely hundreds of cryptic cases. Therefore, I suggest you avoid crowded public places. Try to maintain a 4-foot distance between yourself others._
+_**UPDATE:** [9 deaths (total) of coronovirus in the Seattle area](https://www.nytimes.com/2020/03/03/world/coronavirus-live-news-updates.html). Two of these deaths were up to 6 days ago, and only attributed to COVID-19 recently. Assuming a 1-2% mortality rate among those infected, is now certain that there is a major outbreak in King County with hundreds-to-thousands of cases. Stay safe out there folks! See below for specific suggestions._
+
+_**UPDATE:** I suggest you follow Trevor Bedford (from Fred Hutch) on Twitter for the latest news on COVID-19 in Washington. Bedford has [recently shown](https://twitter.com/trvrb/status/1233970271318503426) strong evidence that COVID-19 has been circulating in our region since January 19th, with likely hundreds of cryptic cases. Therefore, I suggest you avoid crowded spaces. Try to maintain a 3-4 foot distance between yourself others._
 
 1. If you haven’t done so already, get your flu shot. It won’t protect against the coronavirus, and it doesn’t provide perfect protection against the influenza virus, but it will reduce the chance of getting the flu (and save health-care resources for others in need).
 
