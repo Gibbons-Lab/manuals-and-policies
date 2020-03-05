@@ -1,5 +1,7 @@
 # COVID-19 Lab Health Plan -- last updated 03/03/20
 
+_**03/04/20 UPDATE:** [Two new COVID-19 genomes sequenced today](https://twitter.com/trvrb/status/1235432204060131329). Data suggest that the second lineage was imported from outside US and that there is likely only one transmission chain within Western Washington. Simulations suggest that there are likely ~600 current infections (90% confidence interval = 80-1500).
+
 _**03/03/20 UPDATE:** [9 deaths (total) of coronovirus in the Seattle area](https://www.nytimes.com/2020/03/03/world/coronavirus-live-news-updates.html). Two of these deaths were up to 6 days ago, and only attributed to COVID-19 recently. Assuming a 1-2% mortality rate among those infected, it is now certain that there is a major outbreak in King County with hundreds-to-thousands of cases. Stay safe out there folks! See below for specific suggestions._
 
 _**02/29/20 UPDATE:** I suggest you follow Trevor Bedford (from Fred Hutch) on Twitter for the latest news on COVID-19 in Washington. Bedford has [recently shown](https://twitter.com/trvrb/status/1233970271318503426) strong evidence that COVID-19 has been circulating in our region since January 19th, with likely hundreds of cryptic cases. Therefore, I suggest you avoid crowded spaces. Try to maintain a 3-4 foot distance between yourself and others._  
