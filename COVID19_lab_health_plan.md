@@ -1,4 +1,4 @@
-# COVID-19 Lab Health Plan -- last updated 03/03/20
+# COVID-19 Lab Health Plan -- last updated 03/04/20
 
 _**03/04/20 UPDATE:** [Two new COVID-19 genomes sequenced today](https://twitter.com/trvrb/status/1235432204060131329). Data suggest that the second lineage was imported from outside US and that there is likely only one transmission chain within Western Washington. Simulations suggest that there are likely ~600 current infections (90% confidence interval = 80-1500)._
 
