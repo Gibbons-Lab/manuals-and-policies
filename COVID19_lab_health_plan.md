@@ -1,4 +1,4 @@
-# COVID-19 Lab Health Plan -- last updated 03/04/20
+# COVID-19 Lab Health Plan -- last updated 03/09/20
 
 _**03/09/20 UPDATE:** As per ISB's latest policy, all those who do not need to come into the lab should work from home until further notice._
 
