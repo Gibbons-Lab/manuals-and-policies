@@ -1,4 +1,6 @@
-# COVID-19 Lab Health Plan -- last updated 03/09/20
+# COVID-19 Lab Health Plan -- last updated 03/11/20
+
+_**03/11/20 UPDATE:** [WHO officially declares that COVID-19 has gone pandemic](https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/)_
 
 _**03/09/20 UPDATE:** As per ISB's latest policy, all those who do not need to come into the lab should work from home until further notice._
 
