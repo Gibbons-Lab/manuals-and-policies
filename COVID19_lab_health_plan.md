@@ -1,5 +1,7 @@
 # COVID-19 Lab Health Plan -- last updated 03/11/20
 
+_**03/14/20:** [Asymptomatic transmission of COVID-19 appears to be a common mechanism of community spread].(https://www.cnn.com/2020/03/14/health/coronavirus-asymptomatic-spread/index.html) I've seen a few preprints and news stories hinting at this over the past few weeks, but I think the evidence is now clear. Based on what I'm reading, it seems like as many as half of all cases are asymptomatic. And these asymptomatic carriers seem to shed a lot of virus, meaning that they are vectors for passing it along to others. Another reason why it's important for folks to stay home and avoid contributing to the spread (especially those who are low-risk)._
+
 _**03/11/20 UPDATE:** [WHO officially declares that COVID-19 has gone pandemic](https://www.statnews.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-pandemic/)_
 
 _**03/09/20 UPDATE:** As per ISB's latest policy, all those who do not need to come into the lab should work from home until further notice._
