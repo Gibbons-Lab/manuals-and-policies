@@ -25,7 +25,7 @@ We believe that our differences provide an opportunity to accelerate advances an
 We pledge to support diversity, equity, and inclusion through the following set of actions:
 
 * We think deeply about the people around us and and actively cultivate a sense of empathy by considering the world through their points-of-view. We promote a culture of open-mindedness, compassion, and inclusiveness among all team members.
-* We engage in inclusive, active, and individualized learning and mentoring. Just as ISB strives to integrate personalized approaches into our healthcare system, we strive to build adaptive/personalized approaches to STEM education and training.
+* We engage in inclusive, active, and individualized learning and mentoring. Just as the Institute for Systems Biology (ISB) strives to integrate personalized approaches into our healthcare, we strive to build adaptive/personalized approaches to STEM education and training.
 * We understand that when individuals come from different backgrounds, they bring different ideas and perspectives. We will be considerate of and supportive of those perspectives while also sharing our own culture and values. 
 * We promote cultural, personal, and individual expression that contribute to meaningful interaction and dialogue that will support our building of a welcoming, educational, and understanding community that is culturally informed.
 * We engage in outreach and community involvement, including K-12 curriculum development with [ISB Education](https://isbscience.org/education/) and Washington State Public Schools, the [ISB summer internship program](https://isbscience.org/about/careers/internships/), and [open-access bioinformatic worshops](https://github.com/Gibbons-Lab/isb_course_2020).
