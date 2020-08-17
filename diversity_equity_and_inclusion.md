@@ -1,4 +1,4 @@
-# Trainee Orientation Document
+# Diversity, Equity, and Inclusion Statement
 
 last updated: August 17, 2020
 
