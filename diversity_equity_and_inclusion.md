@@ -30,13 +30,13 @@ We pledge to support diversity, equity, and inclusion through the following set 
 * We promote cultural, personal, and individual expressions that contribute to meaningful interaction and dialogue, which help to build a welcoming, educational, and understanding community that is culturally informed.
 * We engage in outreach and community involvement, including K-12 curriculum development with [ISB Education](https://isbscience.org/education/) and Washington State Public Schools, the [ISB summer internship program](https://isbscience.org/about/careers/internships/), and [open-access bioinformatic worshops](https://github.com/Gibbons-Lab/isb_course_2020).
 * We acknowledge our unconscious biases and strive to check and overcome them. [Check out this resource, designed to help you understand your own unconscious biases](https://implicit.harvard.edu/implicit/takeatest.html).
-* As stated in our orientation documant, we will always do our best to be kind and generous, and to acknowledge that we are human beings who will make mistakes that we will correct and learn from.
-* We have an open-door policy and Sean is happy to discuss any feedback or concerns regarding diversity, equity, and inclusion with anyone.
+* As stated in our orientation document, we will always do our best to be kind and generous, and to acknowledge that we are fallible beings who will make mistakes that we will try to correct and learn from.
+* We have an open-door policy and Sean is happy to discuss any feedback or concerns regarding our diversity, equity, and inclusion policies.
 
 
 ### Land Acknolwedement
 
-We acknowledge that we are on the traditional land of the Coast Salish people, including the Duwamish People past and present. We honor with gratitude the land itself and the Duwamish Tribe. This acknowledgement does not take the place of authentic relationships with indigenous communities, but serves as a first step in honoring the land we are on.
+We acknowledge that we are on the traditional land of the Coast Salish people, including the Duwamish People past and present. We honor with gratitude the land itself and the Duwamish Tribe. This acknowledgement does not take the place of authentic relationships with indigenous communities, but serves as a first step in honoring the land we are on. [You can use this resource to find out more about the native/indigenous peoples who reside/resided in your area](https://native-land.ca/).
 
 ### Resources
 
