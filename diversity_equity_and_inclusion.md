@@ -34,7 +34,7 @@ We pledge to support diversity, equity, and inclusion through the following set 
 * We have an open-door policy and Sean is happy to discuss any feedback or concerns regarding our diversity, equity, and inclusion policies.
 
 
-### Land Acknolwedement
+### Land Acknowledgement
 
 We acknowledge that we are on the traditional land of the Coast Salish people, including the Duwamish People past and present. We honor with gratitude the land itself and the Duwamish Tribe. This acknowledgement does not take the place of authentic relationships with indigenous communities, but serves as a first step in honoring the land we are on. [Here is a resource that allows you to find out more about the native/indigenous peoples who reside/resided in your area](https://native-land.ca/).
 
