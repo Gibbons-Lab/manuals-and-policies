@@ -29,7 +29,7 @@ We pledge to support diversity, equity, and inclusion through the following set 
 * We understand that when individuals come from different backgrounds, they bring different ideas and perspectives. We will be considerate of and supportive of those perspectives while also sharing our own culture and values. 
 * We promote cultural, personal, and individual expressions that contribute to meaningful interaction and dialogue, which help to build a welcoming, educational, and understanding community that is culturally informed.
 * We engage in outreach and community involvement, including K-12 curriculum development with [ISB Education](https://isbscience.org/education/) and Washington State Public Schools, the [ISB summer internship program](https://isbscience.org/about/careers/internships/), and [open-access bioinformatic worshops](https://github.com/Gibbons-Lab/isb_course_2020).
-* We acknowledge our unconscious biases and strive to check and overcome them. [Resources to understand unconscious bias](https://implicit.harvard.edu/implicit/takeatest.html).
+* We acknowledge our unconscious biases and strive to check and overcome them. [Check out this resource, designed to help you understand your own unconscious biases](https://implicit.harvard.edu/implicit/takeatest.html).
 * As stated in our orientation documant, we will always do our best to be kind and generous, and to acknowledge that we are human beings who will make mistakes that we will correct and learn from.
 * We have an open-door policy and Sean is happy to discuss any feedback or concerns regarding diversity, equity, and inclusion with anyone.
 
