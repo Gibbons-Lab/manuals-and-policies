@@ -9,7 +9,7 @@ We value and honor the uniqueness of each individual and embrace diverse backgro
 
 ### Values
 
-Our lab holds diversity, equity, and inclusion as core values and is committed to upholding them.  Diversity includes, but is not limited to, considering race, ethnicity, sexuality, gender identity, socioeconomic, national or cultural origins, religion, political beliefs, different abilities, neurodiversity, and lifestyle. We will not tolerate any type of discrimination or bigotry.
+Our lab holds diversity, equity, and inclusion as core values and is committed to upholding them.  Dimensions of diversity include, but are not limited to, race, ethnicity, sexuality, gender identity, socioeconomic, national or cultural origins, religion, political beliefs, different abilities, neurodiversity, and lifestyle. We will not tolerate any type of discrimination or bigotry.
 
  
 
