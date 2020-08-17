@@ -48,5 +48,7 @@ Below are some key resources and information:
 * Women Who Code: [Seattle](https://www.womenwhocode.com/seattle)
 * [Contact the Gibbons Lab](https://gibbons.isbscience.org/contact/)
 
+___
+
 _This is a living document, to be collectively reviewed and improved upon by the members of the group over time. The initial draft of this document was inspired by a similar document written by [Ashley Shade](https://ashley17061.wixsite.com/shadelab/dei)._
 
