@@ -46,7 +46,7 @@ Below are some key resources and information:
 * Diversity, Equity, and Inclusion [Resources at the University of Washington](https://www.washington.edu/diversity/)
 * [Washington STEM](https://washingtonstem.org/)
 * Women Who Code: [Seattle](https://www.womenwhocode.com/seattle)
-* Books: [How to Be an Antiracist, by Ibram X. Kendi](https://www.penguinrandomhouse.com/books/564299/how-to-be-an-antiracist-by-ibram-x-kendi/), [A Lab of One's Own: One Woman's Personal Journey Through Sexism in Science, by Rita Colwell](https://www.indiebound.org/book/9781501181276)
+* Books: [How to Be an Antiracist, by Ibram X. Kendi](https://www.penguinrandomhouse.com/books/564299/how-to-be-an-antiracist-by-ibram-x-kendi/), [A Lab of One's Own: One Woman's Personal Journey Through Sexism in Science, by Dr. Rita Colwell and Sharon Bertsch McGrayne](https://www.indiebound.org/book/9781501181276)
 * [Contact the Gibbons Lab](https://gibbons.isbscience.org/contact/)
 
 ___
