@@ -17,7 +17,7 @@ We believe that supporting diversity, equity, and inclusion is an active process
 
 
 
-We believe that our differences provide an opportunity to accelerate advances and innovations in science by bringing diverse perspectives, talents, approaches, and dialogue to solving key problems. Individual scientists have biases (scientific, cultural, esthetic, etc.), and these biases infiltrate our work. Only be supporting a diverse set of perspectives can we hope to overcome these individual biases, together. Our research is empowered and strengthened by our diversity. 
+We believe that our differences provide an opportunity to accelerate advances and innovations in science by bringing diverse perspectives, talents, approaches, and dialogue to solving key problems. Individual scientists have biases (scientific, cultural, political, economic, esthetic, etc.), and these biases infiltrate our work. Only by supporting a diverse set of perspectives can we hope to overcome these individual biases, together. Our research is empowered and strengthened by our diversity. 
 
 
 ### Actions
