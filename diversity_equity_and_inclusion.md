@@ -1,6 +1,6 @@
 # Diversity, Equity, and Inclusion Statement
 
-last updated: August 17, 2020
+last updated: July 25, 2021
 
 ### Overview
 
@@ -17,7 +17,7 @@ We believe that supporting diversity, equity, and inclusion is an active process
 
 
 
-We believe that our differences provide an opportunity to accelerate advances and innovations in science by bringing diverse perspectives, talents, approaches, and dialogue to solving key problems. Our research is empowered and strengthened by our diversity. 
+We believe that our differences provide an opportunity to accelerate advances and innovations in science by bringing diverse perspectives, talents, approaches, and dialogue to solving key problems. Individual scientists have biases (scientific, cultural, esthetic, etc.), and these biases infiltrate our work. Only be supporting a diverse set of perspectives can we hope to overcome these individual biases, together. Our research is empowered and strengthened by our diversity. 
 
 
 ### Actions
@@ -29,9 +29,9 @@ We pledge to support diversity, equity, and inclusion through the following set 
 * We understand that when individuals come from different backgrounds, they bring different ideas and perspectives. We will be considerate of and supportive of those perspectives while also sharing our own culture and values. 
 * We promote cultural, personal, and individual expressions that contribute to meaningful interaction and dialogue, which help to build a welcoming, educational, and understanding community that is culturally informed.
 * We engage in outreach and community involvement, including K-12 curriculum development with [ISB Education](https://isbscience.org/education/) and Washington State Public Schools, the [ISB summer internship program](https://isbscience.org/about/careers/internships/), and [open-access bioinformatic worshops](https://github.com/Gibbons-Lab/isb_course_2020).
-* We acknowledge our unconscious biases and strive to check and overcome them. [Check out this resource, designed to help you understand your own unconscious biases](https://implicit.harvard.edu/implicit/takeatest.html).
+* We acknowledge the existence of our unconscious biases and strive to identify and overcome them. [Check out this resource, designed to help you understand your own unconscious biases](https://implicit.harvard.edu/implicit/takeatest.html).
 * As stated in our orientation document, we will always do our best to be kind and generous, and to acknowledge that we are fallible beings who will make mistakes that we will try to correct and learn from.
-* We have an open-door policy and Sean is happy to discuss any feedback or concerns regarding our diversity, equity, and inclusion policies.
+* We have an open-door policy -- Sean is happy to discuss any feedback or concerns regarding our diversity, equity, and inclusion policies.
 
 
 ### Land Acknowledgement
