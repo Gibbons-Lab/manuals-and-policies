@@ -48,7 +48,7 @@ If you are interested in gaining grant writing experience, please let me know an
 
 Most graduate students should apply for at least one fellowship at the beginning of their time in the lab. As stated above, the likelihood of winning a fellowship is low, but the effort required for fellowship applications is minimal compared to the potential gains.
 
-Graduate students should take full advantage of this time to learn new skills, take courses, and go to seminars. It will be rare in the future to have so much protected time to learn. That being said, try not to overcommit yourself -- your research and dissertation work ar your first priorities.
+Graduate students should take full advantage of this time to learn new skills, take courses, and go to seminars. It will be rare in the future to have so much protected time to learn. That being said, try not to overcommit yourself -- your research and dissertation work are your first priorities.
 
 Senior graduate students, if you are interested in gaining grant writing experience, please let me know and we can discuss proposal opportunities.
 
