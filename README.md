@@ -81,6 +81,11 @@ I encourage people to write blog posts and popular science articles to highlight
 ### Project ownership when leaving lab
 
 If you embark on a project of your own design when in the lab and want to extend in this direction for your own academic career, please bring this up with me in the early stages so that we can plan accordingly. I will be as flexible as possible to ensure your onging success.
+
+### large language models and generative AI
+
+Feel free to use AI tools, like GPT-4, for polishing text and/or troubleshooting code. Just be careful to thoroughly proof-read and edit the output, to ensure that it makes sense. If you cannot understand it, then do not use it. These models are getting better and better, but they still generate incorrect/non-sensical outputs and we do not want to propogate these errors.
+
 ___
 
 _Special thanks to Tami Lieberman for providing me with her lab orientation document, which I have used as inspiration. This is a living document that is subject to change._
