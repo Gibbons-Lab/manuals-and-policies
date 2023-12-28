@@ -2,7 +2,7 @@
 
 author: Sean Gibbons
 
-last updated: October 14, 2021
+last updated: December 27, 2023
 
 ### Overview
 
@@ -22,7 +22,7 @@ In addition to the above:
 *	Be willing and available to assist other members in the lab in both formal and informal ways and solicit help from me or other lab members if you are stuck
 *	Actively participate in lab meetings
 *	Give lab members ample credit when it comes to acknowledgements or authorships on papers (always err on the side of generosity)
-*	Work from lab/office at least 3-4 days of a normal work week, but feel free to work remotely 1-2 days a week (**current exception:** COVID-19 pandemic policy is that all lab members may work from home as often as they need to or are comfortable with) 
+*	Work from lab/office at least 3-4 days of a normal work week, but feel free to work remotely 1-2 days a week (try to prioritize coming in on days when others tend to be here as well, so we overlap with one another). Certain individuals may need flexibility on this point, which you can discuss on a case-by-case basis with Sean. 
 *	Be responsive on email and/or Slack during work hours (except when on vacation, maternity/paternity leave, or sick leave)
 *	Don’t overwork. Look out for your mental health and take time to cultivate your life outside of work. Academic life can be stressful. Arrange vacation time. Keep me in the loop if you feel burnt out 
 
