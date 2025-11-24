@@ -2,7 +2,7 @@
 
 author: Sean Gibbons
 
-last updated: December 27, 2023
+last updated: November 24, 2025
 
 ### Overview
 
@@ -84,7 +84,11 @@ If you embark on a project of your own design when in the lab and want to extend
 
 ### large language models and generative AI
 
-Feel free to use AI tools, like GPT-4, for polishing text and/or troubleshooting code. Just be careful to thoroughly proof-read and edit the output, to ensure that it makes sense. If you cannot understand it, then do not use it. These models are getting better and better, but they still generate incorrect/non-sensical outputs and we do not want to propogate these errors.
+Feel free to use AI tools, like GPT-5, for polishing text and/or troubleshooting code. Just be careful to thoroughly proof-read and edit the output, to ensure that it makes sense. If you cannot understand it, then do not use it. These models are getting better and better, but they still generate incorrect/non-sensical outputs and we do not want to propogate these errors. Furthermore, be careful with outsourcing your cognition to an LLM. Personally, Personally, I'm fine with outsourcing multiplication and division to a calculator. However, George Orwell once said that 'If people cannot write well, they cannot think well…', and I have to agree. For me, writing and polishing my own writing is a form of thinking that helps me to better understand my mental model of the world and formally articulate this model in a way that another human mind can understand it. Outsourcing this task to an LLM would probably make me a poorer thinker, and perhaps a less articulate writer/speaker.
+
+### philosophy of doing science
+
+Research is very different from course work. The transition from undergrad to grad school can be jarring. In research, we are tasked with building castles in the sky and then crashing these models of the world against the cold, hard facts. It is fundamentally creative work, punctuated by the hard slog of the scientific method. There are no unequivocally 'right' or 'wrong' answers. We aim towards the truth, but we will never reach it. The path is uncertain. Even world-renowned experts in a topic are unfathomably ignorant (in fact, deep experts who are steeped in the dogma of their respective disciplines can often be blinded to a truly novel, but correct, model/idea that runs against their intuition). We will be proven wrong (or partially wrong) more often than not, no matter how rigorous we try to be (the greater the intellectual risk, the higher the likelihood we are incorrect, but the greater the reward in novel insight if we are right). Learn to enjoy the struggle and uncertainty. Learn to enjoy the jolt and confusion when data are contrary to our model of the world. Allow yourself some grace when you make mistakes, and own up to them. Whenever we are wrong, we have a valuable opportunity to learn something new about the universe. Read broadly, outside of your field, to expose yourself to many ways of thinking (including the arts/literature). It's hard, but each meager step of scientific progress will provide incalculable value to future generations, for as long as sentient life persists. We are fortunate to be able to do this work: to carry the torch of knowledge, for a brief time, a few steps further into the darkness. For additional reading on this topic, I suggest ["The importance of stupidity in scientific research"](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research) by Martin Schwartz.
 
 ___
 
